@@ -8,5 +8,3 @@ User-agent: Googlebot
 Allow: /
 
 Sitemap: https://interesnoit.github.io/sitemap.xml
-
-Host: https://interesnoit.github.io
